@@ -1,2 +1,3 @@
 # number-guessing-game-2
-MDN's beginner JS tutorial
+
+Reattempting MDN's beginner tutorial intro to interacting with the DOM to refamiliarise myself with the language
